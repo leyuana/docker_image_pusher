@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 qwenllm/qwen-mindspore:v23.0.RC3
-msranni/nni:v2.6.1
+pytorch/pytorch:1.9.0-cuda10.2-cudnn7-devel
