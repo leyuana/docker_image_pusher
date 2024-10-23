@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 qwenllm/qwen-mindspore:v23.0.RC3
-friday120/opencompass:files
+friday120/opencompass:latest
