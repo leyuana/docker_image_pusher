@@ -3,4 +3,5 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
+#--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
+internlm/opencompass:opencompass-20240607
