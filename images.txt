@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-internlm/opencompass:opencompass-20240607
+friday120/opencompass
