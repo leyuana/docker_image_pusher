@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-ltduong/vanna:0.0.10
+paddlepaddle/paddle:2.2.2-gpu-cuda11.2-cudnn8
