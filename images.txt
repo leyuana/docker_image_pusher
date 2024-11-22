@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-sengwu/mindie:37131-ascend_24.1.rc2-cann_8.0.rc2-py_3.10-ubuntu_22.04-aarch64-mindie_1.0.RC2.01
+infiniflow/ragflow:v0.13.0
