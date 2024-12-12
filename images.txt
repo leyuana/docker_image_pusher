@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-msranni/nni:v2.5
+lammps/buildenv:ubuntu22.04
+lammps/lammps:stable_29Sep2021_ubuntu20.04_openmpi_py3
