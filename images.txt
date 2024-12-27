@@ -3,4 +3,4 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 ascendai/cann:ubuntu-python3.10-cann8.0.rc2.beta1
+--platform=linux/arm64 ascendai/cann:8.0.rc1-910-ubuntu22.04-py3.9
