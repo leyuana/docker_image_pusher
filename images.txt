@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 
---platform=arm64 leyuanqaq/intelligent-app:api-arm64
+--platform=arm64 leyuanqaq/intelligent-app:v1.1
  
