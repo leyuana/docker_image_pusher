@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 
 #--platform=arm64 leyuanqaq/intelligent-app:v1.1
-rabbitmq:management
+langgenius/dify-api:1.0.1
