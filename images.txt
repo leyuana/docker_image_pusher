@@ -5,4 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 
 #--platform=arm64 leyuanqaq/intelligent-app:v1.1
-langgenius/dify-plugin-daemon:0.0.3-local
+#langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-web:0.15.0
+langgenius/dify-api:0.15.0
+--platform=linux/arm64 
